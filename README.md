@@ -91,7 +91,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## License
 
 This project is [MIT](LICENSE) licensed.
-
----
-
-You might want to fill in the placeholders, such as the issues page link, or modify the content as per your preferences and project specifics.
