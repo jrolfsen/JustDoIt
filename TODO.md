@@ -63,6 +63,9 @@
 - [ ] Add `$` for running CLI commands
 	- [ ] Terminal / CMD / Powershell support?
 	- [ ] Reads line until `\n` character
+- [ ] Write a tutorial?
+	- Brainstorm interesting Use-cases / 
+	- Add a URL with a tutorial (TUTS_URL = "")
 
 ## Version 3.0.0
 - [ ] Add a GUI functionality

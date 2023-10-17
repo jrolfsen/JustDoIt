@@ -1,0 +1,43 @@
+[build-system]
+requires = [
+	#"setuptools>=61.0",
+	"pyautogui>=0.9.54",
+	]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "justdoit"
+version = "0.1"
+authors = [
+	{ name="Jonathan Rolfsen", email="jonathan.jiir.io@gmail.com" },
+	]
+description = "Task automation in a compact string command syntax. Regex-like wrapper for PyAutoGUI."
+readme = "README.md" #long_description
+requires-python = ">=3.10"
+classifiers = [
+	'Intended Audience :: Education',
+	'Topic :: Software Development :: Testing',
+	'Topic :: Security',
+	'Topic :: Utilities',
+	'License :: OSI Approved :: MIT License', #vs GPL?
+	'Development Status :: 3 - Alpha',
+		#1 - Planning
+		#2 - Pre-Alpha
+		#3 - Alpha
+		#4 - Beta
+		#5 - Production/Stable
+	'Operating System :: Microsoft :: Windows',
+		#Operating System :: POSIX :: Linux
+		#Operating System :: MacOS :: MacOS X
+		#'Operating System :: OS Independent',
+	'Programming Language :: Python :: 3',
+	'Programming Language :: Python :: 3.10',
+	'Programming Language :: Python :: 3.11',
+	]
+
+[project.urls]
+"Homepage" = "https://github.com/jrolfsen/JustDoIt"
+"Bug Tracker" = "https://github.com/jrolfsen/JustDoIt/issues"
+
+
+#[options]
